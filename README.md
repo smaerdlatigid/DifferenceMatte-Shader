@@ -5,5 +5,5 @@ A real time difference matte effect for the webcam built with Unity Shader graph
 
 How to improve quality: 
 - Disable auto-exposure (e.g. white-balance, exposure time, gamma, etc.)
-- Simple background (not much variations)
+- Have a simple background (low stdev in color space)
 - Good lighting
